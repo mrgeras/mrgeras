@@ -4,7 +4,8 @@
 ✨I'm a Frontend Developer✨
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src=https://i.gifer.com/QDyD.gif" width="600" height="300"/>
+ 
 </div>
 
 ### How to reach me gerasimbek3@gmail.com
