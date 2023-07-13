@@ -1,16 +1,20 @@
+<div  align="center">
+  
 ### Hi there👋
 ### My name is Ilia Gerasimov✨
 </br>
 ✨I'm a Frontend Developer✨
+</div>
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" style="display: block; opacity: 1; width="600" height="300"/>
  </div>
 
-### How to reach me: gerasimbek3@gmail.com
+### <div align="center">How to reach me: gerasimbek3@gmail.com</div>
 
+<div id="badges"  align="center">
+  
 ### Социальные сети:
-<div id="badges">
   <a href="https://www.linkedin.com/in/mrgeras/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
@@ -19,7 +23,7 @@
     </a>
   
 ### Стек:
-<div>
+<div  align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
