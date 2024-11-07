@@ -17,8 +17,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
   <a href="https://t.me/Gerasimov_Ilia">
-  <img src="https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;">
-    </a>
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</a>
+
   
 ### Стек:
 <div  align="center">
