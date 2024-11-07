@@ -3,7 +3,7 @@
 ### Привет!👋
 ### Меня зовут Илья!✨
 </br>
-✨Я, Frontend разработчик✨
+✨Я, Web разработчик✨
 </div>
 
 
@@ -13,12 +13,13 @@
 <div id="badges"  align="center">
   
 ### Социальные сети:
-  <a href="https://www.linkedin.com/in/mrgeras/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-  <a href="https://t.me/Gerasimov_Ilia">
+<a href="https://t.me/Gerasimov_Ilia">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
+<a href="https://www.linkedin.com/in/mrgeras/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
 
   
 ### Стек:
