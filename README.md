@@ -47,7 +47,6 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
-
       <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"  />
     <img width="12" />
@@ -56,7 +55,6 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=gulp" height="40" alt="gulp logo"  />
-    <img width="12" />
         <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
     <img width="12" />
