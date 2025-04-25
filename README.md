@@ -18,7 +18,7 @@
 </a>
   
 ### Стек:
-<div  align="center">
+<div align="center">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
   <img width="12" />
@@ -45,7 +45,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" height="12"/>
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="material logo"  />
@@ -74,7 +74,7 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrgeras&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrgeras&theme=react&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
 ###
