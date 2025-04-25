@@ -34,15 +34,15 @@
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
       <img src="https://skillicons.dev/icons?i=next" height="40" alt="next logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
       <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="node logo"  />
   <img width="12" />
       <img src="https://skillicons.dev/icons?i=babel" height="40" alt="babel logo"  />
   <img width="12" />
       <img src="https://skillicons.dev/icons?i=eslint" height="40" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/>&nbsp;
+ <img width="12" />
+      <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+   <img width="12" />
+      <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
