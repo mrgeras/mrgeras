@@ -36,7 +36,11 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-      <img src="https://skillicons.dev/icons?i=node" height="40" alt="node logo"  />
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="node logo"  />
+  <img width="12" />
+      <img src="https://skillicons.dev/icons?i=babel" height="40" alt="babel logo"  />
+  <img width="12" />
+      <img src="https://skillicons.dev/icons?i=eslint" height="40" alt="eslint logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
