@@ -51,7 +51,7 @@
       <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"  />
     <img width="12" />
-  <img src="https://skillicons.dev/icons?i=material" height="40" alt="material logo"  />
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="material logo"  />
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%"/>
