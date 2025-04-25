@@ -54,6 +54,10 @@
   <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="material logo"  />
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gulp" height="40" alt="gulp logo"  />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%"/>
